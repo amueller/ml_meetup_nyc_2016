@@ -1,0 +1,4 @@
+data/aclImdb/*
+.ipynb_checkpoints/*
+data/batch*
+data/movies.txt
